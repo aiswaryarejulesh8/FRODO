@@ -3,8 +3,24 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/D:/Project%20FRODO/Frodo/web/loginftr.jsp</file>
+            <file>file:/D:/Project%20FRODO/Frodo/src/java/pkg/Viewactdet.java</file>
+            <file>file:/D:/Project%20FRODO/Frodo/src/java/pkg/uploadServlet.java</file>
+            <file>file:/D:/Project%20FRODO/Frodo/src/java/pkg/forgetpsd.java</file>
+            <file>file:/D:/Project%20FRODO/Frodo/src/java/database/Rsa.java</file>
             <file>file:/D:/Project%20FRODO/Frodo/web/Activateuser.jsp</file>
             <file>file:/D:/Project%20FRODO/Frodo/src/java/pkg/Update.java</file>
+            <file>file:/D:/Project%20FRODO/Frodo/src/java/pkg/transfer.java</file>
+            <file>file:/D:/Project%20FRODO/Frodo/web/Deposit.jsp</file>
+            <file>file:/D:/Project%20FRODO/Frodo/web/Viewusers.jsp</file>
+            <file>file:/D:/Project%20FRODO/Frodo/src/java/pkg/signup1.java</file>
+            <file>file:/D:/Project%20FRODO/Frodo/src/java/database/RandomPassword.java</file>
+            <file>file:/D:/Project%20FRODO/Frodo/web/Withdrawal.jsp</file>
+            <file>file:/D:/Project%20FRODO/Frodo/src/java/pkg/Request.java</file>
+            <file>file:/D:/Project%20FRODO/Frodo/src/java/database/AESencrp.java</file>
+            <file>file:/D:/Project%20FRODO/Frodo/src/java/pkg/Viewdc.java</file>
+            <file>file:/D:/Project%20FRODO/Frodo/src/java/database/sendmail.java</file>
+            <file>file:/D:/Project%20FRODO/Frodo/web/generate.jsp</file>
         </group>
     </open-files>
 </project-private>
