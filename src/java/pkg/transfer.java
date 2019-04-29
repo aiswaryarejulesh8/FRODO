@@ -84,7 +84,7 @@ public class transfer extends HttpServlet {
             {
               resfile=rs.getString(1);
             }
-            Path fileLocation = Paths.get("D:\\FRODO 22-10-2018\\Frodo\\web\\file"+resfile);
+            Path fileLocation = Paths.get("D:\\Project FRODO\\Frodo\\web\\file"+resfile);
             byte[] data = Files.readAllBytes(fileLocation);
             
              

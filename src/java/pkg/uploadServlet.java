@@ -121,7 +121,7 @@ public class uploadServlet extends HttpServlet {
                         long size = fileItem.getSize();
                         System.out.println("yourfilenmae"+file);
                         System.out.println("yourfilenmae"+size);
-                        fileItem.write(new File("D:\\FRODOPROJECT\\Frodo\\web\\photos\\"+file));
+                        fileItem.write(new File("D:\\Project FRODO\\Frodo\\web\\photos\\"+file));
                         
                     }
                 }
